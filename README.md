@@ -1,2 +1,2 @@
-# Pohetos-DIO
+# Pojetos-DIO
 Projeto Certificação Scrum Master
